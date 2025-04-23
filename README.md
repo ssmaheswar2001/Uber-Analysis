@@ -2,6 +2,7 @@
 
 ![Uber Dashboard](assets/dashboard-preview.png)
 
+
 ## 📌 Project Overview
 This project presents a comprehensive **Power BI dashboard** that analyzes Uber trip data to provide insights into **booking patterns, revenue trends, trip efficiency**, and customer behavior. The analysis helps stakeholders make **data-driven decisions** to optimize pricing, trip offerings, and customer satisfaction.
 
@@ -60,18 +61,11 @@ This project presents a comprehensive **Power BI dashboard** that analyzes Uber 
 
 Due to organization restrictions, public web access isn't available. However, you can:
 
-- 🔗 [Download the PDF Report](https://github.com/your-repo/assets/Uber_Trip_Analysis.pdf)
-- 📂 [Download the PBIX File](https://github.com/your-repo/assets/Uber_Trip_Analysis.pbix) *(View in Power BI Desktop)*
+- 🔗 [Download the PDF Report](https://github.com/your-repo/Uber_Trip_Analysis.pdf)
+- 📂 [Download the PBIX File](https://github.com/your-repo/Uber_Trip_Analysis.pbix) *(View in Power BI Desktop)*
 
 ---
 
-## 📸 Screenshots
-
-| KPI Summary | Payment Breakdown | Vehicle Type Grid |
-|-------------|-------------------|--------------------|
-| ![](assets/kpi-summary.png) | ![](assets/payment-type.png) | ![](assets/vehicle-analysis.png) |
-
----
 
 ## 🛠️ Tech Stack
 - **Power BI Desktop**
@@ -79,6 +73,3 @@ Due to organization restrictions, public web access isn't available. However, yo
 - CSV/Excel dataset
 
 ---
-
-## 📁 Repository Structure
-. ├── assets/ │ ├── dashboard-preview.png │ ├── Uber_Trip_Analysis.pdf │ ├── Uber_Trip_Analysis.pbix │ ├── kpi-summary.png │ ├── payment-type.png │ └── vehicle-analysis.png ├── README.md
