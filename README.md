@@ -61,8 +61,8 @@ This project presents a comprehensive **Power BI dashboard** that analyzes Uber 
 
 Due to organization restrictions, public web access isn't available. However, you can:
 
-- 🔗 [Download the PDF Report](https://github.com/your-repo/Uber_Trip_Analysis.pdf)
-- 📂 [Download the PBIX File](https://github.com/your-repo/Uber_Trip_Analysis.pbix) *(View in Power BI Desktop)*
+- 🔗 [Download the PDF Report](https://github.com/ssmaheswar2001/Uber-Analysis/blob/main/Uber_Trip_Analysis.pdf)
+- 📂 [Download the PBIX File](https://github.com/ssmaheswar2001/Uber-Analysis/blob/main/Uber_Trip_Analysis.pbix) *(View in Power BI Desktop)*
 
 ---
 
